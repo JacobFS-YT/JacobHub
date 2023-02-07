@@ -1,5 +1,4 @@
 # JacobHub
-real
 local player = script.Parent
 player.Humanoid.WalkSpeed = 75
 
